@@ -1,0 +1,2 @@
+smoothie,5000
+latte,3500

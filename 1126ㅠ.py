@@ -1,0 +1,6 @@
+f=open('student.txt','w')
+f.write('전주대학교, 전주시 완산구 효자동\n')
+f.write('11월 26일')
+str=input('이름을 입력하시오')
+f.write(str)
+f.close()
