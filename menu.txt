@@ -1,2 +1,3 @@
-smoothie,5000
+coffee,3000
 latte,3500
+smoothie,3500
